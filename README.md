@@ -1,0 +1,2 @@
+# Seminarski-rad
+Factory-method
